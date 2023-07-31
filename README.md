@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/raptor-library/raptor.svg?branch=master)](https://travis-ci.org/raptor-library/raptor)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fayg1042%2Fraptor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fayg1042%2Fraptor?ref=badge_shield)
 
 ![](docs/logo/raptor-logo.png)
 
@@ -195,3 +196,6 @@ This code is distributed under BSD: http://opensource.org/licenses/BSD-2-Clause
 
 Please see `LICENSE.txt` and `COPYRIGHT.txt` for more information.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fayg1042%2Fraptor.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fayg1042%2Fraptor?ref=badge_large)
